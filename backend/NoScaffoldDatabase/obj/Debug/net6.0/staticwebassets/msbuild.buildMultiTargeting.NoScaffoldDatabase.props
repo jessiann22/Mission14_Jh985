@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NoScaffoldDatabase.props" />
+</Project>
